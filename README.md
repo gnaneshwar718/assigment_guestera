@@ -1,4 +1,4 @@
-# go the terminal and run - npm i 
+# go the terminal and run - npm i --force
 # you need to change the uri of mongodbUri in app.js with new one 
 # run -  node app.js 
 # and use postman or other api testing tools to check the working of the api code
